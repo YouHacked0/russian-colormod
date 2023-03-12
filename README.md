@@ -1,4 +1,4 @@
-# russian-colormod
+# Перевод цветного шрифта для CS:GO
 Переведённый COLORMOD для CS:GO
 
 
